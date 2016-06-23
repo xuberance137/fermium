@@ -10,6 +10,6 @@ Intended to be a geotracked messaging application
 Few Reference Links:
 
 http://www.appcoda.com/how-to-get-current-location-iphone-user/
-https://developers.google.com/maps/documentation/ios-sdk/start
+https://developers.google.com/maps/documentation/ios-sdk/start/
 https://www.sitepoint.com/creating-cloud-backend-ios-app-using-parse/
 
